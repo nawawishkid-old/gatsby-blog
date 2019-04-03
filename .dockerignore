@@ -1,3 +1,5 @@
 *
-!public/*
 !nginx.conf
+!package*.json
+!*.js
+!src/*
